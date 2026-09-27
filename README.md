@@ -8,6 +8,8 @@ topic-B
 
 topic-C
 
+topic-D
+
 git branch - to check which branch we are at now
 
 git branch name - to create a new branch
@@ -19,3 +21,4 @@ git add . - to tell the git to prepare for the new commit
 git commit -m "" - to commit the change with the remark message
 
 git merge (name of the branch to merge) - merge another branch to main branch
+topic-D
