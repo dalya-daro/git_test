@@ -12,6 +12,8 @@ topic-D
 
 topic-E
 
+topic-F
+
 git branch - to check which branch we are at now
 
 git branch name - to create a new branch
